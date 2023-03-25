@@ -1,3 +1,7 @@
+.landing_page {
+  overflow-x: hidden;
+  width: 100%;
+}
 .header_image {
     background-image: url(../images/header_image.jpg);
     height: 370px;
@@ -630,10 +634,10 @@
 
 /* before & after */
 .before_after {
- 	height: 73.5vw; 
+	height: 73.5vw;
 	margin: 1vw auto;
-	height: 750px; 
-	max-width: 1000px;
+	max-height: 750px;
+	max-width: 100%;
 	overflow: hidden;
 	width: 98vw;
 	}
