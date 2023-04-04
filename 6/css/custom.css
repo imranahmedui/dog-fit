@@ -70,6 +70,20 @@
     font-family: roboto,verdana;
     margin-bottom: 30px;
 }
+.section3 ul {
+  padding: 0px;
+  margin: 0;
+}
+.section3_heading li {
+  font-size: 15px;
+  color: #000;
+  list-style-type: none;
+  background-image: url(../images/tick3.png);
+  background-repeat: no-repeat;
+  background-position:0px 7px;
+  padding-left: 32px;
+  margin-bottom: 10px;
+}
 .section4_heading{
 	background: rgba(255, 255, 255, 0.9);
 	text-align:center;
