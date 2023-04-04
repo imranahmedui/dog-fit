@@ -91,10 +91,8 @@
   flex: fit-content;
 }
 .section13_body { 
-  padding: 29px 9px 18px 144px; 
-  text-align: center;
-  min-height: 320px;
-  max-height: 320px;
+  padding: 12px; 
+  text-align: center; 
 }
  
 .discount_1 { 
@@ -220,7 +218,7 @@
 }
 @media only screen and (max-width: 480px) {
 .section6 .section13_body {
-  padding: 30px 9px 30px 200px;
+  padding: 12px;
   background-size: 220px;
 }
 .discount_1 {
@@ -229,9 +227,7 @@
 .dose_price {
   font-size: 35px;
 }
-.section13_body { 
-  min-height: 250px;
-  max-height: 250px;
+.section13_body {  
 }
 .header_heading {
    padding: 10px;
