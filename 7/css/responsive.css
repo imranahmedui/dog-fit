@@ -1,0 +1,392 @@
+@media only screen and (max-width: 992px) {
+ .landing_page h3 { 
+  font-size: 20px; 
+}
+.landing_page h4 { 
+  font-size: 19px; 
+}
+.section16 .discount_wrapper { 
+  padding: 40px 30px;
+  font-size: 20px; 
+}
+.section16 .coupon_wrapper .coupon { 
+  font-size: 20px; 
+}
+.section16 .coupon_wrapper .coupon strong { 
+  font-size: 20px; 
+}
+.section16 .btn_1 {
+  font-size: 18px;
+}
+.section14 { 
+  margin: 25px auto;
+}
+.section15 .listing { 
+  font-size: 15px;
+}
+.section9 .col-md-4 {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 40px;
+  flex: fit-content;
+}
+.dose3 {
+	display:none;
+}
+.col-md-1 {
+  -ms-flex: max-content;
+  flex: max-content;
+  max-width: 100%;
+}
+ .section14 .col-md-4 {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 40px;
+  flex: fit-content;
+}
+ .section14 .col-md-2 {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 40px;
+  flex: fit-content;
+}
+ .section14 .col-md-6 {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 40px;
+  flex: fit-content;
+}
+.vertical_align {
+  margin-top: 50px;
+  text-align: center;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.section14 { 
+  background-size: contain;
+}
+.section14 .section13_body {
+  padding: 40px 9px 18px 250px; 
+  min-height: 320px;
+  max-height: 500px;
+  height: 500px;
+}
+
+.section14 .section13_body p { 
+  margin-bottom: 12px;
+}
+.section14 .coupon { 
+  padding: 15px 15px; 
+  text-align: center;
+}
+.section14 .btn_1 { 
+  padding: 10px 12px; 
+  text-align: center;
+}
+ .section13 .col-md-4 {
+  width: 50%;
+  max-width: 50%;
+  margin-bottom: 40px;
+  flex: fit-content;
+}
+.section13_body { 
+  padding:12px; 
+  text-align: center; 
+}
+ 
+.discount_1 { 
+  margin: 12px 0px 10px 0px;
+}
+.dose_price { 
+  margin-top: 0px;
+}
+.dose_price small { 
+  margin: 12px auto;
+  display: block;
+}
+.section13 .coupon { 
+  padding: 15px 15px; 
+  text-align: center;
+}
+.section13 .btn_1 { 
+  padding: 10px 12px; 
+  text-align: center;
+}
+.unsere {
+  font-size: 30px; 
+}
+.aktion {
+  font-size: 30px; 
+  margin: 11px 0px 10px 0px;
+}
+
+}
+
+@media only screen and (max-width: 768px) {
+	.header_image {
+  background-image: url(../images/header_image.jpg);
+  height: 300px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
+.section13 .col-md-4 {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 40px;
+  flex: fit-content;
+}
+.header_image .col-md-6 {
+  -ms-flex: 0 0 100%;
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+	
+.header_heading {
+  padding: 20px;
+  width: 100%;
+  margin-top: 0px;
+}
+.header_heading h1 { 
+  font-size: 20px;
+  text-align: center;
+}
+.header_heading h2 { 
+  font-size: 30px; 
+}
+.hundehalter {
+  font-size: 24px; 
+  width: 100%; 
+  padding: 100px 130px 30px 0px;
+}
+.dose2 { 	
+  width: 100%;
+}
+.btn_1 {
+  width: 100%;
+}
+}
+@media only screen and (max-width: 576px) {
+ 
+.landing_page h3 { 
+  font-size: 20px; 
+}
+.landing_page h4 { 
+  font-size: 19px; 
+}
+.section4_heading p {
+  font-size: 14px; 
+  line-height: 20px;
+}
+.hundehalter {
+  font-size: 20px;
+}
+.section6_heading li {
+  font-size: 15px; 
+  line-height: 28px;  
+}
+.section6_heading h6 { 
+  font-size: 40px; 
+}
+.section6_heading h6 strong { 
+  font-size: 40px; 
+}
+
+.section7_heading { 
+  margin: 0px 0;
+}
+.section14 .section13_body {
+  padding: 40px 9px 18px 195px; 
+  background-size: 220px;
+}
+.section14 .section13_body { 
+  height: 450px;
+}
+.call_to_action {
+  font-size: 20px; 
+  line-height: normal; 
+}
+.call_to_action a {
+  font-size: 20px;
+}
+.vertical_align {
+  margin-top: 0px;
+  text-align: center;
+  width: 100%;
+}
+}
+@media only screen and (max-width: 480px) {
+.section6 .section13_body {
+  padding: 30px 9px 30px 200px;
+  background-size: 220px;
+}
+.discount_1 {
+  font-size: 16px;
+}
+.dose_price {
+  font-size: 35px;
+}
+.section13_body {  
+}
+.header_heading {
+   padding: 10px;
+}
+.header_heading h1 {
+   font-size: 15px;
+}
+.section14 .section13_body {
+  padding: 12px;
+  background-size: 140px;
+}
+.section14 {
+  background-size: cover;
+  background-position: bottom;
+}
+.section14 .btn_1 { 
+  font-size: 20px;
+	}
+.coupon strong {
+  font-size: 20px;
+}
+.section14 .coupon {
+  font-size: 20px;
+}
+	
+}
+@media only screen and (max-width: 400px) {
+.section13_body p { 
+  font-size: 15px;
+  line-height: normal;
+  
+}
+.section6 .section13_body {
+  padding: 30px 9px 30px 170px;
+  background-size: 160px;
+}
+.section14 .section13_body p {
+  font-size: 17px;
+}
+.section14 .section13_body p {
+  margin-bottom: 5px;
+}
+.section14 img {
+  width: 85%;
+}
+.section14 .section13_body {
+  padding: 20px 9px 18px 113px;
+  background-size: 140px;
+}
+.section14 .section13_body {
+  height: 380px;
+}
+.call_to_action {
+  font-size: 16px;
+}
+.call_to_action a {
+  font-size: 16px;
+  margin: 12px auto;
+  display: block;
+}
+.call_to_action strong {
+  font-size: 16px;
+  margin: 12px auto;
+  display: block;
+}
+.coupon { 
+  width: 100%; 
+  font-size: 18px;
+}
+.section13 .coupon strong 	{
+  font-size: 18px;
+}
+.btn_1 {  
+  font-size: 20px;
+  width: 100%; 
+}
+.section9 {
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+}
+.section10 .dark_green {
+  margin-top: 0px !important;
+}
+.section6 {
+  padding-top: 20px !important;
+}
+.section6_heading h6 {
+  font-size: 30px;
+}
+.section6_heading h6 strong {
+  font-size: 30px;
+}
+.section4_bg_image { 
+  padding: 20px;
+}
+.section16 .coupon_wrapper { 
+  width: 100%;
+}
+.section16 .coupon_wrapper .coupon {
+  width: 100%;
+}
+.section16 .btn_1 { 
+  width: 100%;
+}
+}
+
+@media only screen and (max-width: 360px) {
+.landing_page h3 {
+  font-size: 15px;
+}
+.section14 .col-md-4 { 
+  margin-bottom: 0px; 
+}
+.section17_bg_image { 
+  padding: 30px;
+}
+.section17 .section4_heading {
+  padding: 1px 15px 15px 15px; 
+}
+.section17 p {
+  font-size: 13px; 
+  padding: 0px 0px; 
+  line-height: normal;
+}
+.section14 .section13_body p {
+  margin-bottom: 0px;
+}
+.section14 .section13_body p {
+  font-size: 13px;
+}
+	.section14 .section13_body {
+  padding: 20px 9px 18px 107px;
+  background-size: 120px;
+}
+.dose_price {
+  font-size: 27px;
+}
+.dose_price small {
+  margin: 5px auto;
+  display: block;
+}
+.call_to_action {
+  font-size: 13px;
+}
+.call_to_action a {
+  font-size: 13px;
+  margin: 12px auto;
+  display: block;
+}
+.section14 .section13_body {
+  height: 308px;
+}
+.section14 .coupon {
+  font-size: 14px;
+}
+.coupon strong {
+  font-size: 14px;
+}
+.section14 .btn_1 {
+  font-size: 14px;
+}
+}
